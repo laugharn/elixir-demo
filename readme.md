@@ -1,7 +1,6 @@
 ## Elixir Demo
 
 * Run `npm install`
-* Modify node_modules/laravel-elixir/Config.js: set the 'assetsPath' to 'assets' and the 'appPath' to ''
 * Have two terminal tabs open, one for Gulp and one for the PHP server
 * Use `gulp` to on-demand compile your SASS, JS, etc. Use `gulp watch` to have a continuous file listener.
 * Run `php -S localhost:9000 -t public` to serve up the index.php file in /public and see your results
